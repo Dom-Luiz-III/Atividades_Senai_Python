@@ -1,0 +1,1 @@
+Atividades bestas feitas nos primeiros dias de aula da matéria, só tem tralha aqui.
