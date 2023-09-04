@@ -1,7 +1,7 @@
 #ATIVIDADE 2
-#ALUNO: LUIZ HENRIQUE CARNEIRO CARVALHO
+#ALUNO: LUIZ HENRIQUE, LAÍQUE
 
-"""
+
 #1° Atividade
 
 numero = float(input("Digite um número real: ")) 
@@ -147,7 +147,7 @@ print ("Lista aleatória da altura das pessoas:", lista)
 lista.sort()
 
 print ("Lista ordenada da altura das pessoas:", lista)
-"""
+
 
 #14° Atividade
 
