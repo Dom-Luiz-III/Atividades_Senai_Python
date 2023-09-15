@@ -13,6 +13,7 @@ def divisao(x, y):
     return x / y
 
 while True:
+    print("CALCULADORA BÁSICA:\n")
     print("Opções:")
     print("1 - Soma")
     print("2 - Subtração")
@@ -20,7 +21,7 @@ while True:
     print("4 - Divisão")
     print("0 - Sair")
 
-    escolha = input("Escolha a operação desejada: ")
+    escolha = input("\nEscolha a operação desejada: ")
 
     if escolha == "0":
         break
