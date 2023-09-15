@@ -13,7 +13,7 @@ def divisao(x, y):
     return x / y
 
 while True:
-    print("CALCULADORA BÁSICA:\n")
+    print("\nCALCULADORA BÁSICA:\n")
     print("Opções:")
     print("1 - Soma")
     print("2 - Subtração")
